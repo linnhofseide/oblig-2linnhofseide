@@ -4,7 +4,7 @@ OsloMet brukernavn: s351883
 
 GitHub brukernavn: linnhofseide
 
-GitHub repo URL: https://github.com/DATA1700/oblig-2-linnhofseide
+GitHub repo URL: https://github.com/DATA1700/oblig-2linnhofseide
 
 URL til Heroku app: fikk ikke til pga maven errors 
 
