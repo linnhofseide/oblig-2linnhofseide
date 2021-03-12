@@ -33,6 +33,7 @@ function ticketSale() {
 function deleteTickets() {
     tickets = [];
     updateView();
+    $.get("/kinobillett", Slett());
 }
 
 function resetValues() {

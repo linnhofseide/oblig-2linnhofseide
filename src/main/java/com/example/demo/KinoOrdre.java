@@ -1,4 +1,4 @@
-package com.example.dehdudhudhmo;
+package com.example.demo;
 
 public class KinoOrdre {
     private String filmer;
