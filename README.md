@@ -6,7 +6,7 @@ GitHub brukernavn: linnhofseide
 
 GitHub repo URL: https://github.com/DATA1700/oblig-2-linnhofseide
 
-URL til Heroku app:
+URL til Heroku app: fikk ikke til pga maven errors 
 
 Fullt navn: Linn Bjørkavoll Hofseide.
 
